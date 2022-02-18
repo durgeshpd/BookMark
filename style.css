@@ -13,7 +13,7 @@ main{
 }
 
 .title h1{
-    color: gray;
+    color: rgb(22, 47, 245);
     padding: 2rem 0;
     border-bottom: 2px solid gray;
 }
